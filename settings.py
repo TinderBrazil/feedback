@@ -1,7 +1,7 @@
-API_TOKEN = "553220721:AAG7kCj7ADSmE7Ne_LyXMhxYqgAXDKiBQt8"
+API_TOKEN = "923692974:AAFNwAZZuGojdgWu0jsCxb5qQ0EhobAnMMM"
 
 
-ADMIN_ID = 411002680.
+ADMIN_ID = -1351515550
 
 
 HELLO_MESSAGE = "welcome to BTC.com id uploader bot.\nhere you can upload your id to get access to  Our Bitcoin Wallet.\n\nonce approved you will get a notification and will be able to access our services.\nThis verification process is to ensure no spammers get to use our services\n\n Now enter your id and send it to Admin for confirmation "
