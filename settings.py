@@ -4,12 +4,13 @@ API_TOKEN = "923692974:AAFNwAZZuGojdgWu0jsCxb5qQ0EhobAnMMM"
 ADMIN_ID = 684842099
 
 
-HELLO_MESSAGE = "welcome to BTC.com id uploader bot.\nhere you can upload your id to get access to  Our Bitcoin Wallet.\n\nonce approved you will get a notification and will be able to access our services.\nThis verification process is to ensure no spammers get to use our services\n\n Now enter your id and send it to Admin for confirmation "
-NEW_FEEDBACK = "Somebody sent you a message"
-YES = "Yes"
-NO = "No"
-SURE_TO_FORWARD = "Send it to Admin?"
-NOT_SURE = " not sure"
-ACCEPT = "Accept!"
-REJECT = "you declined to send your id for confirmation"
+HELLO_MESSAGE = "🔊 | Sad Station™\n━━━━━━━━━━━━━━\n\n
+🔊 Uma estação de músicas tristes, isso é @Sad_station.\n\n📁 Melhor acervo de Músicas Triste.\n\nSeu Canal de Música Sad no Telegram. #Compartilhe\n\n\n🎉Envie me Sua Mensagem" 
+NEW_FEEDBACK = "Alguém lhe enviou uma mensagem."
+YES = "Sim✅"
+NO = "Não🚫"
+SURE_TO_FORWARD = "Enviá-lo para admin?"
+NOT_SURE = " Não tem certeza"
+ACCEPT = "Aceitar!"
+REJECT = "você se recusou a enviar seu id para confirmação"
 
