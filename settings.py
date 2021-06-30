@@ -1,10 +1,10 @@
-API_TOKEN = "923692974:AAFNwAZZuGojdgWu0jsCxb5qQ0EhobAnMMM"
+API_TOKEN = "1786477323:AAE8TOv_DqqnXQi39Rag4zwkXfw7B3lUSmI"
 
 
 ADMIN_ID = 684842099
 
 
-HELLO_MESSAGE = "🔊 | Sad Station™\n━━━━━━━━━━━━━━\n\n🔊 Uma estação de músicas tristes, isso é @Sad_station.\n\n📁 Melhor acervo de Músicas Triste.\n\nSeu Canal de Música Sad no Telegram. #Compartilhe\n\n\n🎉Envie me Sua Mensagem" 
+HELLO_MESSAGE = "Regras !! \n\nNão enviem mensagem aleatória \nNão enviem pornografia \nNão enviem Flood \n\n:) apenas manda mensagem si for importante.\nResponderei o mais rapido possovel" 
 NEW_FEEDBACK = "Alguém lhe enviou uma mensagem."
 YES = "Sim✅"
 NO = "Não🚫"
